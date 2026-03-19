@@ -49,4 +49,4 @@ Mobile App → API → AI Model → Weather API → Advisory System
 
 ## 👨‍💻 Author
 
-Rutvik Nakum
+Rutvik B. Nakum
