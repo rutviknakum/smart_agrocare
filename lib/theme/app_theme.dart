@@ -147,7 +147,7 @@ class AppTheme {
         primary: primaryGreen,
         secondary: primaryLightGreen,
         surface: Colors.grey.shade50,
-        surfaceVariant: Colors.grey.shade100,
+        surfaceContainerHighest: Colors.grey.shade100,
         onSurface: textPrimary,
         onSurfaceVariant: textSecondary,
         primaryContainer: cardGreen,
